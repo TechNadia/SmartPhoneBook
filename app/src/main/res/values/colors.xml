@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="BackgroundColor">#f4842c</color>
+    <color name="BackgroundColor2">#f8e9dd</color>
+    <color name="BackgroundColor3">#f9fcd1</color>
+    <color name="BackgroundColor4">#dfeff7</color>
+    <color name="transparent">#00000000</color>
+    <color name="tab_highlight">#ff9ecfbf</color>
+    <color name="white_text_color">#ffffff</color>
+    <color name="GreenButtonStartColor">#23af51</color>
+    <color name="GreenButtonEndColor">#1ca119</color>
+    <color name="GreenButtonBorderColor">#137e36</color>
+    <color name="primaryColor">#2196F3</color>
+    <color name="primaryColorDark">#1976D2</color>
+    <color name="accentColor">#F44336</color>
+</resources>
